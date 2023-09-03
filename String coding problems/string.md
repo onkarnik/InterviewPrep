@@ -2,7 +2,13 @@
 
 - [markup guide](https://www.markdownguide.org/cheat-sheet/)
 
+---
+
+<br/>
+
 ## Tips
+
+<br/>
 
 ### 1. Use integer array to map characters
 
@@ -11,6 +17,8 @@ mark[s.charAt(i)] //valid in java
 
 mark[s.charAt(i)-'a'] // marking lower case letters
 ```
+
+<br/>
 
 ### 2. Use **Hashmap<Character, Integer>** to store unique letters or mark repeating letters
 
@@ -23,6 +31,23 @@ mark[s.charAt(i)-'a'] // marking lower case letters
                 map.put(ch,++val);
             }
 ```
+
+<br/>
+
+### 3. Learn how to use **_StringBuilder_**
+
+- methods of StringBuilder class
+
+```java
+   StringBuilder sb = new StringBuilder();
+                sb.append();
+                sb.reverse();
+                sb.toString();
+```
+
+<br/>
+
+---
 
 ## Most frquently asked string based questions
 
