@@ -36,14 +36,20 @@ mark[s.charAt(i)-'a'] // marking lower case letters
 
 ### 3. Learn how to use **_StringBuilder_**
 
-- methods of StringBuilder class
-
 ```java
+   //methods of StringBuilder class
    StringBuilder sb = new StringBuilder();
-                sb.append();
-                sb.reverse();
-                sb.toString();
+
+   sb.append();
+   sb.reverse();
+   sb.toString();
 ```
+
+**Advantages of using sb class**
+
+- String is **_immutable_**. we cannot modify string. when we modify or use concat method we simply get new string literal in memory.
+- Using StringBuilder over normal string if you want to modify string is always better and gives good time complexity.
+- some problems require use of **_StringBuiler_** class. normal string class in that problem would increase running time by a lot.
 
 <br/>
 
