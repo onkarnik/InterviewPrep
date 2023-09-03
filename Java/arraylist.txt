@@ -1,0 +1,31 @@
+----------------
+	ArrayList	
+	---------
+	java.util.ArrayList
+	1. Dynamic size
+	- dont have to assign space in advance (eg. can add size dynamically as needed)
+	2. Rich library functions
+	- contains = search for element
+	- add at index.
+	- remove item
+	- find 1st occurance of item
+	3. ways of creating arrylist
+	 3.1 default(without capacity)
+	 3.2 specify capacity  
+	 3.3 from other colletion eg. HashSet
+	 
+	4. arrylist.size() = big O(1)
+	 - updates each time item is added 
+----------------	 
+	 Arrays (Operations)
+	 --------
+	 1 Insert = big O(n)
+	 2 Search 
+	   a. sorted = big O(log n)
+	   b. Un-sorted = big O(n)
+	 3 Delete = big O(n)
+	 -------
+	 
+	 array.length = is a final variable
+	  
+	   

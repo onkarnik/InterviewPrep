@@ -1,0 +1,32 @@
+	
+	TYPES OF JOINS---
+	
+1. INNER JOIN / JOIN
+
+	- eg. fetch the employee name and department name they belong to
+	 
+	SELECT emp_name, dept_name
+	FROM Employee e JOIN Department d ON e.dept_id = d.dept_id;
+	
+	-only tries to match the records that are present in both the tables.
+	
+2. LEFT JOIN	
+	
+	-eg. fetch ALL the employess name and department name that they belong to
+	
+	SELECT emp_name, dept_name
+	FROM Empployee e LEFT JOIN Department d ON e.dept_id = d.dept_id;
+	
+	- Left join = inner join + any additional record in left table.
+	- will give priority to left table 
+	- if join condtion is not satisfying for left table rows it will show null for right table columns. 
+	
+	
+3. RIGHT JOIN : 	
+	
+	-RIGHT JOIN = INNER JOIN + all the records from right table
+	
+	
+	
+https://www.youtube.com/watch?v=0OQJDd3QqQM  (ref video)	
+	

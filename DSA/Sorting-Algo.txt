@@ -1,0 +1,37 @@
+	SORTING ALGORITHMS
+	-------------------
+
+BUBBLE SORT :
+	
+	- Works like a bubble that compares two ADJECENT numbers and swap them.
+	-after first pass--> gretest element will be at the last of the array.
+	- linear algo.
+	- maintains flag for number of swaps happens..thas why best case ie sorted array as input will have O(n)
+	- best case - O(n)
+	- avg case - O(n^2)
+	- worst case O(n^2)
+	
+SELECTION SORT :
+	
+	- Selects the SMALLEST element in array and swaps it at front.
+	- max swaps can be performed = (n-1)
+	- no of swap operations are minimum of all.
+	- best case - O(n^2)
+	- avg case -  O(n^2)
+	- worst case- O(n^2)	
+
+Insertion SORT : 
+	
+	- Compare a[1] element to its predeccessor and swaps them.
+	- works best for small sized arrays and element if it is already sorted or some elements are misplaced.
+	- python used tim sort (merge sort + insertion sort)
+	- if array is sorted..we never go in innerloop hence best case - O(n)
+	- best case -O(n)
+	- Avg case - O(n^2)
+	- Worst case O(n^2) 
+	
+	
+MERGE Sort : 
+
+	- Divide and conqure algo
+	- Divide array into two parts. keeps divin		

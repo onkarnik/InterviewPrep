@@ -1,0 +1,92 @@
+
+
+1. c =relational
+2. b=tables
+3. a=true
+4.c column
+5.b row
+6.a sql
+7.c column
+8.a true
+9.d more than 1
+10.a use
+11.d schema
+12.a false
+13.a create
+14.a drop database
+15.b if not exist
+16.a true
+17.c join
+18.b join condition
+19.a inner
+20.a
+21.a cross join
+22.b cartesion
+23.a eqijoins
+24.c sunquering
+25.a scalar
+26.b false
+27.a in and not in
+28.b column
+29.a all
+30.b exists and not exists
+31.b U
+32.b common
+33.d eliminate duplicate
+34.a union all
+35.d
+37.b degree
+38.b ddl statement
+39.a
+40.c alter table
+41.c alter table
+42.a 
+43.b
+44.b
+45.d
+46.a yes
+47.b alternate key
+48.c 
+49.d
+50.d storage engine
+51.a true
+52.b
+53.a
+54.b
+55.d
+56.b
+57.a 
+58.a
+59.c column
+60.a create database
+61.d
+62.c 2
+63.a
+64.b false
+65.d check table
+66.a
+67.c
+68.a
+69.c table name
+70.a
+71.b no error
+72.c
+73.a char
+74.a varchar
+75.a 255 bytes
+76. A ==65,535 bytes
+77. c ==varchar2
+78. a =true
+79. a =true
+80. a =create trigger
+81. d =view
+82. c =drop
+83. a =true
+84. a =statr the loop again
+85. a =trigger name
+
+87. a =0
+88. c=inout
+89. a =true
+90. c=call
+91

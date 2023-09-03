@@ -1,0 +1,9 @@
+
+
+--Why generics--
+
+ - checks for type safety.
+ -introduced in 5.0
+ -main point of generics to let you write type-safe collections.
+ -It wont let you add dog in collection of ducks.
+ 
